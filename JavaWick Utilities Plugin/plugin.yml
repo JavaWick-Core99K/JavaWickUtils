@@ -1,0 +1,11 @@
+main: me.javawick.util.Main
+name: JavaWickUtils
+version: 1.0.0
+api-version: 1.14
+author: JavaWick
+
+commands:
+  jwu-version:
+    description: 'Plugin version'
+    usage: '/jwu-version /jwuv'
+    aliases: [jwuv]
